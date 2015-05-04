@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<configuration date="2014/07/14" author="e.World Technology Ltd.">
+<project id="{A78C9F64-F701-4951-8B68-9678633E190C}" file="D:\dev\remates\frontend\remates\war\phpmaker_proyect\socialcms.pmp" name="socialcms" product="PHPMaker" version="10.0" datetime="2014/07/14 16:00:10" languagefolder="phplang" userlevel="0,&quot;Default&quot;,0">
+<table id="posts" name="posts" caption="fb posts" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="jobs" name="jobs" caption="Jobs" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="jobshistorical" name="jobshistorical" caption="jobshistorical" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="user" name="user" caption="user" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="audittrail" name="audittrail" caption="audittrail" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="target_categorias" name="target_categorias" caption="fb targets cats" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="domains" name="domains" caption="domains" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="targets" name="targets" caption="targets" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="credenciales" name="credenciales" caption="credenciales" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="getjobs" name="getjobs" caption="getjobs" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+</project></configuration>
